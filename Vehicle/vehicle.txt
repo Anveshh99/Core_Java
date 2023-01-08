@@ -1,0 +1,7 @@
+Vehicle [chasisno=abc-1234, color=BLACK, baseprice=12345.0, manufacturedate=02-05-2022 company=Honda address=null]
+Vehicle [chasisno=abc-1237, color=WHITE, baseprice=52345.0, manufacturedate=12-05-2022 company=Maruti address=null]
+Vehicle [chasisno=abc-1236, color=WHITE, baseprice=72345.0, manufacturedate=22-05-2022 company=Tata address=null]
+Vehicle [chasisno=abc-1230, color=RED, baseprice=32345.0, manufacturedate=02-04-2022 company=Maruti address=null]
+Vehicle [chasisno=abc-1238, color=GREY, baseprice=19345.0, manufacturedate=02-07-2022 company=Maurti address=null]
+Vehicle [chasisno=abc-1232, color=WHITE, baseprice=17345.0, manufacturedate=20-08-2022 company=Mahindra address=null]
+Vehicle [chasisno=abc-777, color=WHITE, baseprice=75000.0, manufacturedate=24-08-2022 company=Honda address=null]
